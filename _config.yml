@@ -1,0 +1,14 @@
+layout_spectrum: 0.4744064
+typography_spectrum: 0.9027927
+color:
+  saturation: 0.3181912
+  brandStrength: 0.297305
+  lightness: 0.226709
+  brandColors:
+    - '#FFFFFF'
+    - '#CECECE'
+    - '#020202'
+    - '#9BD703'
+    - '#D7F47E'
+  rhythmicContrast: 0.1545518
+name: 'Fractal ink '
